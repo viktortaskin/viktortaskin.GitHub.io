@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-aviras.site	TRUE	/	FALSE	1999999999	PHPSESSID	b7c054f6be1384c8cbdb51f8639afa71
-.chatbro.com	TRUE	/	FALSE	1999999999	__cfduid	d40d610a6e33b1d1adbb5386b5ab7f7ba1523875637
-
